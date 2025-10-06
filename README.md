@@ -4,6 +4,12 @@ This repository contains a Docker wrapper for the CodeConcise application, it is
 
 ## Prerequisites
 
+### To run the Docker image
+
+- Docker installed on your machine.
+
+### To build the Docker image
+
 - Docker installed on your machine.
 - Docker buildx plugin installed. You can find the installation instructions [here](https://github.com/docker/buildx).
 - just command runner installed. You can find the installation instructions [here](https://github.com/casey/just).
